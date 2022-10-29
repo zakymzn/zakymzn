@@ -17,6 +17,9 @@ A student at the Amikom University in Yogyakarta who takes the informatics study
     <img align='left' alt='Python' title='Python' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png'/>
 </a>
 
+<br>
+<br>
+
 ### Favorite Framework
 
 <a href='https://flutter.dev/'>
@@ -25,3 +28,6 @@ A student at the Amikom University in Yogyakarta who takes the informatics study
 <a href='https://tailwindcss.com/'>
     <img align='left' alt='Tailwind CSS' title='Tailwind CSS' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' />
 </a>
+
+<br>
+<br>
