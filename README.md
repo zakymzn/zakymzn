@@ -20,13 +20,16 @@ A student at the Amikom University in Yogyakarta who takes the informatics study
 <br>
 <br>
 
-### Favorite Framework
+### Favorite Framework & Tools
 
 <a href='https://flutter.dev/'>
     <img align='left' alt='Flutter' title='Flutter' width='30px' src='https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png' />
 </a>
 <a href='https://tailwindcss.com/'>
     <img align='left' alt='Tailwind CSS' title='Tailwind CSS' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' />
+</a>
+<a href='https://reactjs.org/'>
+    <img align='left' alt='ReactJS' title='ReactJS' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' />
 </a>
 
 <br>
