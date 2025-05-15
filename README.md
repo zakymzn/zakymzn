@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Zaky.
 
-A student at the Amikom University in Yogyakarta who takes the informatics study program. I enjoy front-end programming on web and mobile platforms.
+Fresh graduate of Informatics study program from Amikom University Yogyakarta. Interested in front-end web and mobile app programming.
 
-- 🌱 I’m currently learning dart, javascript, dan python programming language.
 - 📫 How to reach me: mamurzakynurrokhman@gmail.com
 
 ### Favorite Programming Language
