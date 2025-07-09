@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Zaky.
 
-Fresh graduate of Informatics study program from Amikom University Yogyakarta. Interested in front-end web and mobile app programming.
+Fresh graduate of Informatics study program from Universitas Amikom Yogyakarta. Interested in front-end web and mobile app programming.
 
 - 📫 How to reach me: mamurzakynurrokhman@gmail.com
 
