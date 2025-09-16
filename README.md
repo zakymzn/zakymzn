@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Zaky.
 
-Fresh graduate of Informatics study program from Universitas Amikom Yogyakarta. Interested in front-end web and mobile app programming.
+Fresh graduate with a bachelor’s degree in informatics from Universitas Amikom Yogyakarta. Experienced in developing front-end web and mobile applications using tools such as React.js, TailwindCSS, and Flutter.
 
 - 📫 How to reach me: mamurzakynurrokhman@gmail.com
 
