@@ -43,4 +43,6 @@ Fresh graduate with a bachelor’s degree in informatics from Universitas Amikom
 </a>
 </p>
 
+### Holopin Badges
+
 [![An image of @zakymzn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zakymzn)](https://holopin.io/@zakymzn)
