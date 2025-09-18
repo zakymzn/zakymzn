@@ -42,3 +42,5 @@ Fresh graduate with a bachelor’s degree in informatics from Universitas Amikom
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zakymzn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+[![An image of @zakymzn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zakymzn)](https://holopin.io/@zakymzn)
