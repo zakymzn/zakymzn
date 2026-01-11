@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Zaky.
+### Hi there 👋 I'm Zaky
 
-Fresh graduate with a bachelor’s degree in informatics from Universitas Amikom Yogyakarta. Experienced in developing front-end web and mobile applications using tools such as React.js, TailwindCSS, and Flutter.
+Experienced Frontend Developer who builds web-based applications using modern technologies such as Vue.js and React.js. Focusing on user needs by prioritizing responsiveness, scalability, maintainability, and performance to deliver a meaningful user experience. I thoroughly enjoy the process of slicing UI designs into code and turning them into reliable digital products. I am still learning and developing my skills to grow as a professional software developer.
 
-- 📫 How to reach me: mamurzakynurrokhman@gmail.com
+- 📫 How to reach me: <mamurzakynurrokhman@gmail.com>
 
 ### Favorite Programming Language
 
@@ -14,6 +14,9 @@ Fresh graduate with a bachelor’s degree in informatics from Universitas Amikom
 </a>
 <a href='https://www.python.org/'>
     <img align='left' alt='Python' title='Python' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png'/>
+</a>
+<a href='https://kotlinlang.org/'>
+    <img align='left' alt='Kotlin' title='Kotlin' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png'/>
 </a>
 
 <br>
@@ -27,8 +30,11 @@ Fresh graduate with a bachelor’s degree in informatics from Universitas Amikom
 <a href='https://tailwindcss.com/'>
     <img align='left' alt='Tailwind CSS' title='Tailwind CSS' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' />
 </a>
-<a href='https://reactjs.org/'>
-    <img align='left' alt='ReactJS' title='ReactJS' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' />
+<a href='https://react.dev/'>
+    <img align='left' alt='React' title='React' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' />
+</a>
+<a href='https://vuejs.org/'>
+    <img align='left' alt='Vue' title='Vue' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png'/>
 </a>
 
 <br>
