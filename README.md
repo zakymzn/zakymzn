@@ -7,16 +7,16 @@ Experienced Frontend Developer who builds web-based applications using modern te
 ### Favorite Programming Language
 
 <a href='https://dart.dev/'>
-    <img align='left' alt='Dart' title='Dart' width='30px' src='assets/icons/dart.png'/>
+    <img align='left' alt='Dart' title='Dart' width='30px' src='assets/icons/dart.png' style="margin-right: 8px"/>
 </a>
 <a href='https://www.javascript.com/'>
-    <img align='left' alt='JavaScript' title='JavaScript' width='30px' src='assets/icons/javascript.png'/>
+    <img align='left' alt='JavaScript' title='JavaScript' width='30px' src='assets/icons/javascript.png' style="margin-right: 8px">
 </a>
 <a href='https://www.python.org/'>
-    <img align='left' alt='Python' title='Python' width='30px' src='assets/icons/python.png'/>
+    <img align='left' alt='Python' title='Python' width='30px' src='assets/icons/python.png' style="margin-right: 8px"/>
 </a>
 <a href='https://kotlinlang.org/'>
-    <img align='left' alt='Kotlin' title='Kotlin' width='30px' src='assets/icons/kotlin.png'/>
+    <img align='left' alt='Kotlin' title='Kotlin' width='30px' src='assets/icons/kotlin.png' style="margin-right: 8px"/>
 </a>
 
 <br>
@@ -25,16 +25,16 @@ Experienced Frontend Developer who builds web-based applications using modern te
 ### Favorite Framework & Tools
 
 <a href='https://flutter.dev/'>
-    <img align='left' alt='Flutter' title='Flutter' width='30px' src='assets/icons/flutter.png' />
+    <img align='left' alt='Flutter' title='Flutter' width='30px' src='assets/icons/flutter.png' style="margin-right: 8px"/>
 </a>
 <a href='https://react.dev/'>
-    <img align='left' alt='React' title='React' width='30px' src='assets/icons/react.png' />
+    <img align='left' alt='React' title='React' width='30px' src='assets/icons/react.png' style="margin-right: 8px"/>
 </a>
 <a href='https://vuejs.org/'>
-    <img align='left' alt='Vue' title='Vue' width='30px' src='assets/icons/vue.png'/>
+    <img align='left' alt='Vue' title='Vue' width='30px' src='assets/icons/vue.png' style="margin-right: 8px"/>
 </a>
 <a href='https://tailwindcss.com/'>
-    <img align='left' alt='Tailwind CSS' title='Tailwind CSS' width='30px' src='assets/icons/tailwind_css.png' />
+    <img align='left' alt='Tailwind CSS' title='Tailwind CSS' width='30px' src='assets/icons/tailwind_css.png' style="margin-right: 8px"/>
 </a>
 
 <br>
