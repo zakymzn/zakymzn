@@ -7,16 +7,16 @@ Experienced Frontend Developer who builds web-based applications using modern te
 ### Favorite Programming Language
 
 <a href='https://dart.dev/'>
-    <img align='left' alt='Dart' title='Dart' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png'/>
+    <img align='left' alt='Dart' title='Dart' width='30px' src='assets/icons/dart.png'/>
 </a>
 <a href='https://www.javascript.com/'>
-    <img align='left' alt='JavaScript' title='JavaScript' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png'/>
+    <img align='left' alt='JavaScript' title='JavaScript' width='30px' src='assets/icons/javascript.png'/>
 </a>
 <a href='https://www.python.org/'>
-    <img align='left' alt='Python' title='Python' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png'/>
+    <img align='left' alt='Python' title='Python' width='30px' src='assets/icons/python.png'/>
 </a>
 <a href='https://kotlinlang.org/'>
-    <img align='left' alt='Kotlin' title='Kotlin' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png'/>
+    <img align='left' alt='Kotlin' title='Kotlin' width='30px' src='assets/icons/kotlin.png'/>
 </a>
 
 <br>
@@ -25,16 +25,16 @@ Experienced Frontend Developer who builds web-based applications using modern te
 ### Favorite Framework & Tools
 
 <a href='https://flutter.dev/'>
-    <img align='left' alt='Flutter' title='Flutter' width='30px' src='https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png' />
-</a>
-<a href='https://tailwindcss.com/'>
-    <img align='left' alt='Tailwind CSS' title='Tailwind CSS' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' />
+    <img align='left' alt='Flutter' title='Flutter' width='30px' src='assets/icons/flutter.png' />
 </a>
 <a href='https://react.dev/'>
-    <img align='left' alt='React' title='React' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' />
+    <img align='left' alt='React' title='React' width='30px' src='assets/icons/react.png' />
 </a>
 <a href='https://vuejs.org/'>
-    <img align='left' alt='Vue' title='Vue' width='30px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png'/>
+    <img align='left' alt='Vue' title='Vue' width='30px' src='assets/icons/vue.png'/>
+</a>
+<a href='https://tailwindcss.com/'>
+    <img align='left' alt='Tailwind CSS' title='Tailwind CSS' width='30px' src='assets/icons/tailwind_css.png' />
 </a>
 
 <br>
